@@ -12,4 +12,4 @@ Grandmaster of recursive waveform interpolation across multidimensional frequenc
 
 "Vibe coding is a trend, aura is forever"
 
-Read me via email: kamil@superior-studios.com
+Reach me via email: kamil@superior-studios.com
