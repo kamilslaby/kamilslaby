@@ -1,16 +1,15 @@
-## Hi there 👋
+## Experience
 
-<!--
-**kamilslaby/kamilslaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grandmaster of recursive waveform interpolation across multidimensional frequency fabrics, specializing in holistic resonance redistribution and omni-channel reverberant scaffolding. Former Principal of latent spectral ambiguity at the Institute of Transient Harmonic Regression and stochastic waveform monetization. Lead leadership at Superior CorpCorp Global.
 
-Here are some ideas to get you started:
+### Currently Learning
+• Post-industrial dissonance engineering
+• Quantum sidechain inversion and prayer-based mastering
+• Cubic abstraction in the context of nonlinear metaphysical reverb
+• Liquid-adjacent liquification
+• Analytical anti-analysis
+• Rats (their emergent socio-acoustic ecosystems)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Vibe coding is a trend, aura is forever"
+
+Read me via email: kamil@superior-studios.com
